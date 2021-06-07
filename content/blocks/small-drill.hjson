@@ -1,7 +1,7 @@
 name: Small Drill
 description: A smaller drill, capable of mining titanium. Mines at a speed 4X faster then a pneumatic drill.
 type: Drill
-size: 2
+size: 1
 tier: 3
 drillTime: 75.0
 drawMineItem: true
