@@ -1,0 +1,6 @@
+name: "killer-drill"
+displayName: "Killer Drill"
+author: "gamerredx"
+description: "A mod that adds small drills. A part of my elementary mod."
+version: "1"
+minGameVersion: "105"
