@@ -3,7 +3,7 @@ description: A smaller drill, capable of mining titanium. Mines at a speed 4X fa
 type: Drill
 size: 1
 tier: 3
-drillTime: 75.0
+drillTime: 1.0
 drawMineItem: true
 requirements: [
   copper/144
